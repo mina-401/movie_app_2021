@@ -1,3 +1,7 @@
+#Movie app 2021
+React JS Fundamentals Course (2021 Update)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
