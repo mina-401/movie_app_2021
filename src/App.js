@@ -1,8 +1,9 @@
 import React from 'react';
-
+import Red from 'Red';
 function App() {
   return (
-    <div className="App">
+    <div>hello~
+      <Red />
     </div>
   );
 }
